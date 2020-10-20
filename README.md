@@ -13,7 +13,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![alt text](https://https://github.com/dagute/holberton-smiling-school-javascript/blob/main/images/smile_school.jpg)
+![alt text](//https://github.com/dagute/holberton-smiling-school-javascript/blob/main/images/smile_school.jpg)
 
 ## Requirements
 
