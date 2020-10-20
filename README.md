@@ -1,4 +1,4 @@
-# 0x0B. Implement a design with bootstrap
+# 0x0F. Build a web app in JavaScript
 Web Stack programming
 
 ### Learning Objectives
